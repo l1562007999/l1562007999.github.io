@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://github.com/l1562007999/l1562007999.github.io.git/undefined/JS-JS%E5%9F%BA%E7%A1%80-1/</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://github.com/l1562007999/l1562007999.github.io.git/undefined/%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F%E6%97%A5%E6%9C%9F/</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -143,6 +150,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://github.com/l1562007999/l1562007999.github.io.git/tags/JS/</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/l1562007999/l1562007999.github.io.git/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -161,6 +182,13 @@
   
   <url>
     <loc>https://github.com/l1562007999/l1562007999.github.io.git/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/l1562007999/l1562007999.github.io.git/categories/JavaScript/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
